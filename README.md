@@ -17,7 +17,7 @@ The Python script analyzes the financial records calculates each of the followin
 - The greatest decrease in losses (date and amount) over the entire period
 
 ### PyPoll
-Python Script for analysis small, rural town vote-counting process.Provided a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate.
+Python Script to analysis small, rural town vote-counting process. Provided a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate.
 
 The Python script analyzes the votes and calculates each of the following:
 
